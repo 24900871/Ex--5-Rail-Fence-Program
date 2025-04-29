@@ -1,4 +1,4 @@
-![438026903-52214437-2d2d-49d9-bc9d-87344c1e9e3c](https://github.com/user-attachments/assets/f5f719d5-41c1-4d13-bb5d-24500f91c2db)# Ex-5 Rail-Fence-Program
+# Ex-5 Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
